@@ -1,5 +1,5 @@
 
-## This script is written by Ismail Kuru
+#Junior Dev Ismail Kuru
 #pull request 
 #Programming for the Puzzled -- Srini Devadas
 #You Will All Conform
